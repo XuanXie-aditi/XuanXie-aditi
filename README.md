@@ -11,12 +11,11 @@
 ## 💼 Professional Experience
 
 **Associate Data Scientist, LTM** — Jun 2025 – Present
-- Engineered a multi-agent decision-intelligence backend (LangGraph, RAG, MCP) orchestrating SQL analysis, retrieval, and recommendation agents across enterprise data sources
-- Built a hybrid RAG pipeline over PostgreSQL + pgvector, reaching ~85% Recall@5 and ~85% grounded-answer accuracy on internal business-query benchmarks
-- Cut manual multi-step analysis workflows by ~30–40% via MCP-based tool integrations and FastAPI services for controlled agent execution
-- Reduced retrieval and tool-call latency by ~20% by introducing Redis caching and async execution into iterative agent workflows
-- Integrated a vessel-routing optimization agent (K-Means clustering + NSGA multi-objective optimization) into LTM's BlueVerse agentic ecosystem
-- Participated in LTM BlueVerse's internal "Game of Agents" hackathon, prototyping ReAct agent framework.
+- Engineered a multi-agent decision-intelligence backend (LangGraph, RAG, MCP) orchestrating SQL analysis, retrieval, and recommendation agents across enterprise data sources.
+- Built a hybrid RAG pipeline over PostgreSQL + pgvector, reaching ~85% Recall@5 and ~85% grounded-answer accuracy on internal business-query benchmarks.
+- Cut manual multi-step analysis workflows by ~30–40% via MCP-based tool integrations and FastAPI services for controlled agent execution.
+- Reduced retrieval and tool-call latency by ~20% by introducing Redis caching and async execution into iterative agent workflows.
+
 
 ## 🛠️ Tech stack
 
@@ -47,3 +46,4 @@ My recent certifications include
 - 📝 [Medium](https://medium.com/@aditibhushanv)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=42&pause=1000&color=A6AAFF&background=000000&center=true&vCenter=true&width=1000&height=200&lines=And+YES!+I'm+learning+too!)](https://git.io/typing-svg)
+
